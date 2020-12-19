@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Water is the driving force of all nature.</string>
+		<key>author</key>
+		<string>Leonardo da Vinci</string>
+		<key>keywords</key>
+		<array>
+			<string>water</string>
+			<string>nature</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>The mountains are calling and I must go.</string>
+		<key>author</key>
+		<string>John Muir</string>
+		<key>keywords</key>
+		<array>
+			<string>mountain</string>
+			<string>nature</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>The earth laughs in flowers.</string>
+		<key>author</key>
+		<string>Ralph Waldo Emerson</string>
+		<key>keywords</key>
+		<array>
+			<string>flower</string>
+			<string>nature</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>There are always flowers for those who want to see them.</string>
+		<key>author</key>
+		<string>Henri Matisse</string>
+		<key>keywords</key>
+		<array>
+			<string>flower</string>
+			<string>nature</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Love is the only force capable of transforming an enemy into a friend.</string>
+		<key>author</key>
+		<string>Martin Luther King, Jr.</string>
+		<key>keywords</key>
+		<array>
+			<string>forgiveness</string>
+			<string>love</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>I wonder if other dogs think poodles are members of a weird religious cult.</string>
+		<key>author</key>
+		<string>Rita Rudner</string>
+		<key>keywords</key>
+		<array>
+			<string>standard poodle</string>
+			<string>toy poodle</string>
+			<string>poodle</string>
+			<string>dog</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Sleep is like a cat: It only comes to you if you ignore it.</string>
+		<key>author</key>
+		<string>Gillian Flynn</string>
+		<key>keywords</key>
+		<array>
+			<string>egyptian cat</string>
+			<string>cat</string>
+		</array>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>When fate hands you a lemon, make lemonade.</string>
+		<key>author</key>
+		<string>Dale Carnegie</string>
+		<key>keywords</key>
+		<array>
+			<string>lemon</string>
+			<string>lemonade</string>
+		</array>
+	</dict>
+</array>
+</plist>
